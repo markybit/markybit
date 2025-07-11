@@ -11,16 +11,6 @@
 
 ---
 
-## 💼 Experience Snapshot
-
-| Organization | Role | Duration |
-|-------------|------|----------|
-| 🛡️ SpearLab IT Solutions | **IT Manager** | _Feb 2025 – Present_ |
-| 🔐 M Lhuillier Financial Services | **AppSec Intern** | _Apr 2024 – Dec 2024_ |
-| 💻 GreenCartPH | **Software Developer** | _Apr 2024 – Dec 2024_ |
-| 🖥️ La Maternelle French Academy | **System Admin Intern** | _Apr 2022 – Jun 2022_ |
-
----
 
 ## 🛠️ Skills & Tools
 
