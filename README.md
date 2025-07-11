@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/markybit/markybit/main/assets/banner.png" alt="Remark Cordova Banner" width="100%">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-cartoon&psig=AOvVaw1fa_iKKlK29aSQnLvutEvi&ust=1752289165813000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjo7P3ns44DFQAAAAAdAAAAABAE" alt="Remark Cordova Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Remark Cordova</h1>
