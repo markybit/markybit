@@ -7,9 +7,6 @@
 
 <p align="center">
   💼 Application Security Specialist | Developer | Offensive Security Practitioner <br/>
-  📍 Consolacion, Cebu City <br/>
-  📬 <a href="mailto:remarkcordova17@gmail.com">remarkcordova17@gmail.com</a> <br/>
-  📱 09954625532 | 09933488665 <br/>
 </p>
 
 ---
