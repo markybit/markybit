@@ -10,7 +10,6 @@
   📍 Consolacion, Cebu City <br/>
   📬 <a href="mailto:remarkcordova17@gmail.com">remarkcordova17@gmail.com</a> <br/>
   📱 09954625532 | 09933488665 <br/>
-  📄 <a href="#">Download Resume</a> _(add link)_
 </p>
 
 ---
@@ -91,8 +90,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
 ---
-
-<p align="center">
-  © 2025 <strong>Remark Cordova</strong> — All rights reserved. <br/>
-  <em>Built with React, TypeScript, and Tailwind CSS</em>
-</p>
