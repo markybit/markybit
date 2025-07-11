@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/markybit/markybit/main/assets/banner.png" alt="Remark Cordova Banner" width="100%" height="250">
+ <img src="https://raw.githubusercontent.com/markybit/markybit/main/assets/banner.png" alt="Remark Cordova Banner" width="100%" height="300">
 </p>
 
 <h1 align="center">👋 Hi, I'm Remark Cordova</h1>
