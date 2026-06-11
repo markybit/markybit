@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/markybit/markybit/main/assets/banner.png" alt="Remark Cordova" width="100%" />
-</p>
-
 <h1 align="center">Remark Cordova</h1>
 
 <p align="center">
@@ -50,19 +45,19 @@ I work across web and mobile — APIs, admin dashboards, cloud deployments — w
 
 ## Tech stack
 
-**Languages & frameworks**
+**Frontend & mobile**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Data & backend**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -76,15 +71,6 @@ I work across web and mobile — APIs, admin dashboards, cloud deployments — w
 
 ---
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markybit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markybit&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
 ## Currently building
 
 - Streaming & media platforms (mobile + API + admin)
@@ -95,8 +81,4 @@ I work across web and mobile — APIs, admin dashboards, cloud deployments — w
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markybit&label=Profile%20views&color=0e1117&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <sub>Pittsburgh · Building in public · Open to security & dev collaborations</sub>
 </p>
